@@ -29,9 +29,10 @@ You can click the Preview link to take a look at your changes.
 - key developer in PWA coolfront mobile, offline capable invoicing system.
 
 ## other job & self projects related
-- developed double accounting based microservice build in nodejs/typescript
-- create elearning content interacties and e-learning content presentation engines (actionscript 3, flex, xaml)
-- created twitch extension ecosystem to allow twitch viewers to trigger custom effects on a twitch stream (nodejs/vue2&3/aws/postgres)
+- developed double accounting based microservice built in nodejs/typescript
+- developed elearning content interacties and e-learning content presentation engines (actionscript 3, flex, xaml)
+- developed twitch extension ecosystem to allow twitch viewers to trigger custom effects on a twitch stream (nodejs/vue2&3/aws/postgres)
+- developed residential equipment/item managment system (vue2/nodejs/postgres)
 - developed c# intergration applications for enterprise security system
 - developed key ecosystem components for enterprise security system
 - created platformer game poc with team (top downshoorter in c++)
