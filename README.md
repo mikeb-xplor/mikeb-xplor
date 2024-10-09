@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikeb-xplor (Mike Benjamin)
 - 👀 I’m interested in game related developement and genetic algorithms, I also like to create 3d models and 3d print among other things. Feel free to hit me up for casual conversation.
-- 🌱 I’m currently learning ... unreal engine
-- 💞️ I’m looking to collaborate on ... AR/VR, simulations and related tools.
+- 🌱 I’m currently learning ... unreal engine for fun
+- 💞️ I’m looking to collaborate on ... AR/VR, simulations and related tools for fun.
 - 📫 How to reach me ...
 - 😄 Pronouns:  him/he/they/their, but I'm flexible.
 - ⚡ Fun fact: ...
