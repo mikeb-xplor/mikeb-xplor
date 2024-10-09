@@ -19,15 +19,17 @@ Things I've done and dabbled in more recently
 - graphql
 - rest apis
 - github actions / some azure devops pipelines
-- key developer in PWA coolfront mobile, offline capable invoicing system.
-- developer on FieldEdge integration apps, FieldEdge Web app, backend components, some tools
 - developer assisting with mobile2 ecosystem
+- developer on FieldEdge integration apps, FieldEdge Web app, backend components, some tools
+- key developer in PWA coolfront mobile, offline capable invoicing system.
+
 
 - developed double accounting based microservice build in nodejs/typescript
 - create elearning content interacties and e-learning content presentation engines (actionscript 3, flex, xaml)
 - created twitch extension ecosystem to allow twitch viewers to trigger custom effects on a twitch stream (nodejs/vue2&3/aws/postgres)
 - developed c# intergration applications for enterprise security system
 - developed key ecosystem components for enterprise security system
+
 
 - created platformer game poc with team (top downshoorter in c++)
 - created space sim shooter with team (3rd person, in c++)
